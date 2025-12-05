@@ -26,7 +26,7 @@ Insights into top churn predictors
 
 Business strategies based on churn reasons
 
-🤖 Models Used
+# 🤖 Models Used
 
 Logistic Regression
 
@@ -40,7 +40,7 @@ Ensemble Model
 
 These models achieve 80–90% accuracy depending on algorithm and features.
 
-📈 Key Insights
+# 📈 Key Insights
 
 High monthly charges → high churn risk
 
@@ -52,7 +52,7 @@ Payment failures, downgrades, support complaints → churn triggers
 
 Tenure and service type strongly influence churn probability
 
-📊 Risk Segmentation
+# 📊 Risk Segmentation
 Risk Level	Description
 🟢 Low	No immediate action needed
 🟡 Medium	Monitor behavior
@@ -68,7 +68,7 @@ Supports ROI-focused decision making
 
 Uses data-driven insights to improve customer loyalty
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Python
 
@@ -82,6 +82,6 @@ Matplotlib / Seaborn
 
 Jupyter Notebook
 
-✔️ Summary
+# ✔️ Summary
 
 This project delivers a complete churn prediction system with ML models, risk scoring, and business insights. It can be applied directly to real-world industries to reduce churn and improve long-term customer retention.
